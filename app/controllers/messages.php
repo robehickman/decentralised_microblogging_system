@@ -388,7 +388,6 @@ class ctrl_messages extends controller_base
         }
         catch(Exception $e)
         {
-            throw $e;
             echo $rmt->make_ping_response('fail', 'Server error');
         }
     }
