@@ -48,7 +48,7 @@ using PHPMyAdmin or another MySQL client.
 
 --  The communication protocol is digitally signed to provide inter-node
     user authentication. However it does not prevent replay attacks or
-    message spoofing in the event of a man in the middle attack.
+    message spoofing.
 
     To gain this type of protection, as well as over-the-wire encryption
     the message stream can be exposed over TLS(SSL). 
