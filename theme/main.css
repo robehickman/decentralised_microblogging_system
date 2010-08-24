@@ -1,0 +1,253 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+} 
+
+body {
+    background-color: #eee;
+    color: #000;
+}
+
+#container {
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+#sub-container {
+    background-color: #fff;
+    background-image: url(images/background.png);
+    min-height: 600px;
+
+    margin-top: 10px;
+}
+
+#main-content {
+    width: 560px;
+    padding: 20px;
+
+    float: left
+}
+
+#options {
+    text-align: right;
+
+    background-color: #fff;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    padding: 5px;
+    float: right;
+}
+
+#options ul {
+    list-style: none;
+}
+
+#options li {
+    display: inline;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#sidebar {
+    position: relative;
+    float: right;
+
+    width: 171px;
+    padding: 14px;
+
+    font-family: Helvetica, Arial;
+    font-size: 12px;
+}
+
+.message {
+    position: relative;
+
+    border-style: solid;
+    border-color: #ccc;
+    border-bottom-width: 1px;
+
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.message_left {
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.message_left img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 5px;
+}
+
+.message_right {
+    width: 450px;
+    float: right;
+    margin: 5px;
+}
+
+.message h4 {
+    display: inline;
+}
+
+.msg-content {
+    display: inline;
+}
+
+.message_bottom p {
+    float: left;
+}
+
+.message_bottom form {
+    float: right;
+}
+
+.register {
+    margin: 0 auto;
+}
+
+.submit {
+    text-align: center;
+}
+
+#errors {
+    background-color: #eee;
+    font-size: 15px;
+
+    border-color: #ccc;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#errors li {
+    margin-left: 30px;
+    margin-left: 20px;
+}
+
+#errors_head {
+    text-align: center;
+    background-color: #f00;
+}
+
+#login {
+    text-align: center;
+}
+
+.submit {
+    margin-top: 10px;
+}
+
+.gap {
+    width: 1px;
+    height: 40px;
+}
+
+.small_gap {
+    width: 1px;
+    height: 20px;
+}
+
+#message_input {
+    display: block;
+
+    margin: 0 auto;
+
+    width: 560px;
+    height: 70px;
+
+    background-color: #fff;
+
+    border-style: solid;
+    border-color: #aaa;
+    border-width: 1px;
+}
+
+#message_submit {
+    width: 80px;
+    height: 25px;
+
+    display: block;
+    margin-left: 480px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#chars_remaining {
+    display: block;
+    margin-left: 530px;
+    margin-top: 20px;
+}
+
+#relations {
+    position: relative;
+    min-height: 29px;
+
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+#followers, #following {
+    text-align: center;
+    float: left;
+}
+
+#followers {
+    margin-left: 14px;
+}
+
+.attributes p {
+    margin-bottom: 5px;
+}
+
+.top-gap {
+    margin-top: 10px
+}
+
+#user_info {
+    padding-bottom: 30px;
+}
+
+#user_info img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    background: #f00;
+    float: left;
+}
+
+#user_info h2 {
+    display: block;
+    float: left;
+    margin-left: 20px;
+}
+
+#user_follow_form input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#user_follow_form .submit {
+    width: 100%;
+    margin-bottom: 10px;
+    width: 60px;
+    display: block;
+    margin: auto;
+}
+
+.avatar_settings {
+    text-align: center;
+}
+
+.avatar_settings p {
+    margin-top: 10px;
+    font-size: 12px;
+}

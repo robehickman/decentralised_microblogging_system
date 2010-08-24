@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+  <users 
+    ID="1" 
+    User_name="fred" 
+    E-mail="fred@example.com" 
+    Password="fbbe17188855f70fea2fa1ecfeeb669951abb112" 
+    Salt="f11a0bbe4eae938559bf527c9059691f7de478a7" 
+    Priv_key="LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tCk1JSUNlUUlCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQW1Nd2dnSmZBZ0VBQW9HQkFNbVZmNm5tQ1pORm9uVG0KRmlwRkFST0d0NXZLVVhEMmNrb2txa2pzeS83NGhtNnZRcENyK0gwazhrV3RDZTFOdVg0aEpOSjJRU3lqTWgyaQplUGgzYmRoZ0ZpZk54OXhKMFY3SDV4UngwYVEvQ0lUNHFtTTYwZzVCVndNbElmUERqQUJ0dkFkMFVGeEZ6R1RKCmNGeTh2MTZWL0dYZS9IUGQvMVErUmVBNjNsTzNBZ01CQUFFQ2dZRUFsT1o1ODJ4NUhEQ3VqSHk4V0tLNTVjdDMKNm5xcVo2K1N3bE9NK09yNDBEQ1JWRWJlKzNBYno0eXY3R21oMElpK0FIM0k3akR0ZVdSZWkyZE14Zk9welgxbgpBWEhMczdrYnJ3QVF4OGcyNWtkY3VLb1NCZmxvbkRieWFjYnl5THdnd2RUZWhRcUFCTUduSFo0VWtwVDhOL0NOCmgxZU1qSmhxcFF1TjNsYkk3VGtDUVFEL0gycTFGb0JqL1lCeGRsOEVvTGlXaTdYNGliY2doTGI3MVNETHI2b0IKaTZWZGZNMDV6YjUvTHEyRkpqVHY3cHJYQ0R4U29MM25KKzJNNjQ2djlwNURBa0VBeWtienRhSFJ2TU1UNGZ1cgpZUHR1cmRRazc1L2tXMnMzWXJTMHVHT2RaY21FUEJHc3ZFU3NaUFZOMnNXUjFtb3RoZTJHcktJV0hFbFJsTGo1ClVKeHZmUUpCQU9VaFprajF5S0lGVDVLWDZZYlNnblpUVEQvSUQvell0UzlBbjQvUVdUUENJK2J1NjdMNm9oaS8KNTRBcWJHa0JOM2ZoSWF4a1NhcU9KYi9tMytRUjd0a0NRUUNtUDdwK1JnbUVBekdNUXJTUWVSWjJlQzREWkg3agpSRE81Ukp4a0VEdUZOU01oMjhVRTE4eDVEY1IzVW5xU3A2SFN1VzQrNU5rWFZvdGVtTWtRb0FKaEFrRUFtYVdrClJzd0pMK1h4U0FLYjNxbjdpQndKU01WMHU2MWluUndWd1BJdmJCdVhoWC90cVNwLzJFcy8rZXNiN1lSeE5NTjgKQ09JS3Y1UFgvKzF2MjcreUpRPT0KLS0tLS1FTkQgUFJJVkFURSBLRVktLS0tLQo="
+    Pub_key="LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FESmxYK3A1Z21UUmFKMDVoWXFSUUVUaHJlYgp5bEZ3OW5KS0pLcEk3TXYrK0ladXIwS1FxL2g5SlBKRnJRbnRUYmwrSVNUU2RrRXNveklkb25qNGQyM1lZQlluCnpjZmNTZEZleCtjVWNkR2tQd2lFK0twak90SU9RVmNESlNIenc0d0FiYndIZEZCY1JjeGt5WEJjdkw5ZWxmeGwKM3Z4ejNmOVVQa1hnT3Q1VHR3SURBUUFCCi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo="
+    Full_name="Fred jones" 
+    Location="The moon" 
+    Web="http://google.com" 
+    Bio="Yet another human being" 
+    Avatar="" 
+  />
+
+  <users 
+    ID="2" 
+    User_name="sue" 
+    E-mail="sue@example.com" 
+    Password="fbbe17188855f70fea2fa1ecfeeb669951abb112" 
+    Salt="f11a0bbe4eae938559bf527c9059691f7de478a7" 
+    Priv_key="LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tCk1JSUNkZ0lCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQW1Bd2dnSmNBZ0VBQW9HQkFMVDYxRFVEemYwTGZKMlIKWFdWNWlpU0t5ZGRFaUFhQVFsU3hnMHNka28wVnZEYkZNS2hUaG1QOGZjYUx2SzlVbG5qMkNVMTEwRnRCQ3hVRgpiLzNHY3VML1VEL3R4MEhodTY3SnhCSlNaRVpwWFpCWmFzSXoycFB1Zi9FWTU3RTFyc3Vab3NLMkZkdmJGeFk5ClNYcHJVK2pPMVNZOTFxT3BQUVBwaWcrYTE1S2hBZ01CQUFFQ2dZQlUzUVZpOHF6Rnlud2R1c3RMeVFreEIyK00KSk5PUUVOYUp0azkxaXFGc3pOTmI3MjFZa1FvRW1xSXoxdFNjZHBLMGw5Slc0emJYZzVGNXd2bjN5dldWbDdzMwpnZTNqRGVjd0llbkRnTlcvc2I2OGx1ZFZyR1MwejVsaUxEOHRtU1p3ZnNNZUd6ZmtqbnpPRjhnYytZaVIxRHRWCmdjMWZleXVwemIrZVEzTlNRUUpCQU9JLy8vM2hCeXZSVFd1WHpuNVlKbEJxMkhTLzd6Z2pZU3hjRVF1WUZVUDgKZ0c2dnNqU0hMTjRSK3ZtaUV0RGh4RkdXcGFDNjBoSXk5TlJ5UEtBcTJBa0NRUURNeHZMeVlPVFZzNy9tVzd4MApnMGMrK1ByZlMzcCtBZWxYSnQ0aGVjL2ZiNTdXREwxZHk1QkpzSUhIOEN3ZWhOL2RqdXovcnNXbDZHTktYTFVzCk1adlpBa0JsQ1hXMWw4K1BCdHBQS1MwRENUU2JCd3dCSDFHaVBWS0E3K0NBei9yM01JVGVhVUhvNlZEbEh4eDQKYktPQWVzSWtPV1ZmNE80OVNGcERvWHhuZnBxWkFrQTJUS0xyUm1vbmlJeGdKdjhuM2crc1VSVWsxTHpjWU9GZwo3THVHSU9qUUZLY0hsMFUzYzkwRXpUcjhxMkRuanRCVnphcG1lZytLMkw1TFg1M2k1Qnl4QWtFQWptYkF4aDdICk05aGQzWWkyM3EyRUcrSUhsMjlaK2k3aVZrNUZQdDgxOXBsbDJFblNtbnROa3lWbld6cCsrTlJqSWZNM2pYSm4KQjlFclJxQjZhOW9SNmc9PQotLS0tLUVORCBQUklWQVRFIEtFWS0tLS0tCg=="
+    Pub_key="LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FDMCt0UTFBODM5QzN5ZGtWMWxlWW9raXNuWApSSWdHZ0VKVXNZTkxIWktORmJ3MnhUQ29VNFpqL0gzR2k3eXZWSlo0OWdsTmRkQmJRUXNWQlcvOXhuTGkvMUEvCjdjZEI0YnV1eWNRU1VtUkdhVjJRV1dyQ005cVQ3bi94R09leE5hN0xtYUxDdGhYYjJ4Y1dQVWw2YTFQb3p0VW0KUGRhanFUMEQ2WW9QbXRlU29RSURBUUFCCi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo="
+    Full_name="" 
+    Location="" 
+    Web="" 
+    Bio="" 
+    Avatar="" 
+  />
+  <users />
+
+<!-- ===================== -->
+  <following
+      ID="1"
+      User_ID="1"
+      Remote_URL="http://localhost/messages/follow/sue"
+      Remote_name="sue"
+      Relation_pingback="http://localhost/relations/ping"
+      Message_pingback="http://localhost/messages/ping"
+  />
+
+  <following />
+
+
+<!-- ===================== -->
+  <followers
+      ID="1"
+      User_ID="2"
+      Remote_URL="http://localhost/messages/follow/fred"
+      Remote_name="fred"
+      Relation_pingback="http://localhost/relations/ping"
+      Message_pingback="http://localhost/messages/ping"
+  />
+
+  <followers />
+
+<!-- ===================== -->
+    <message-cache-users
+        ID="1"
+        Remote_URL="http://localhost/messages/follow/fred"
+        Update_cache="0"
+        />
+
+    <message-cache-users
+        ID="2"
+        Remote_URL="http://localhost/messages/follow/sue"
+        Update_cache="0"
+        />
+
+    <message-cache-users />
+
+<!-- ===================== -->
+    <message-cache
+        ID="1"
+        Remote_URL="http://localhost/messages/follow/sue"
+        Remote_name="sue"
+        Remote_time="54324567"
+        Remote_message="Message by sue"
+        />
+
+    <message-cache
+        ID="2"
+        Remote_URL="http://localhost/messages/follow/fred"
+        Remote_name="fred"
+        Remote_time="54324942"
+        Remote_message="Message by fred"
+        />
+
+    <message-cache
+        ID="3"
+        Remote_URL="http://localhost/messages/follow/fred"
+        Remote_name="fred"
+        Remote_time="54325126"
+        Remote_message="Message 2 by fred"
+        />
+
+    <message-cache />
+
+<!-- ===================== -->
+    <messages
+        ID="1"
+        User_ID="2"
+        Time="54324567"
+        Message="Message by sue"
+        />
+
+    <messages
+        ID="2"
+        User_ID="1"
+        Time="54324942"
+        Message="Message by fred"
+        />
+
+    <messages
+        ID="3"
+        User_ID="1"
+        Time="54325126"
+        Message="Message 2 by fred"
+        />
+
+    <messages />
+
+<!-- ===================== -->
+    <direct-message
+        ID="1"
+        User_ID="1"
+        Type="public"
+        Remote_name="sue"
+        Remote_profile="http://localhost/messages/follow/sue"
+        Remote_avatar="http://localhost/media/default_avatar.jpg"
+        Remote_message="@fred a message from sue"
+        Remote_time="400"
+        />
+
+    <direct-message
+        ID="2"
+        User_ID="1"
+        Type="public"
+        Remote_name="sue"
+        Remote_profile="http://localhost/messages/follow/sue"
+        Remote_avatar="http://localhost/media/default_avatar.jpg"
+        Remote_message="@fred another message from sue"
+        Remote_time="500"
+        />
+
+    <direct-message />
+</dataset>
