@@ -1,12 +1,9 @@
 This code is a proof of concept implementing a microblogging system
-like Twitter/Identi.ca, but that is completely decentralised. It is
-designed to be immune to the ``fail whale'' problem, failure of any
-one node will not take down the whole network, much like email and
-the internet as a whole.
-
-There is no central server, instead independent nodes intercommunicate
-using a simple XML based protocol. From a conceptual point of view
-it is similar to RSS with the addition of pingbacks.
+like Twitter, but that is completely decentralised. It is designed
+to be immune to the ``fail whale'' problem as the failure of any one
+node will not take down the whole network. Much like email and the
+internet as a whole. There is no central server, instead independent
+nodes intercommunicate using a simple XML based protocol.
 
 In order to implement this one major compromise had to be made. There
 is no way to implement a ``follow button''. Instead following is
