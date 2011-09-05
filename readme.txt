@@ -43,13 +43,6 @@ using PHPMyAdmin or another MySQL client.
 --  A node running behind a NAT router cannot follow users on a node on
     the internet and vice/versa.
 
---  The communication protocol is digitally signed to provide inter-node
-    user authentication. However it does not prevent replay attacks or
-    message spoofing.
-
-    To gain this type of protection, as well as over-the-wire encryption
-    the message stream can be exposed over TLS(SSL). 
-
 
 === Test suite ===
 
